@@ -16,7 +16,6 @@
 
 <br/>  
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -69,6 +68,12 @@
 
 <br/>  
 
+### Interests
+- Research: I'm passionate about pushing the boundaries of AI through cutting-edge research. Whether it's exploring new algorithms, conducting experiments, or publishing papers, I'm always eager to contribute to the advancement of the field.
+
+- Education: I'm a firm believer in the importance of education and knowledge sharing. I enjoy mentoring aspiring AI enthusiasts, teaching workshops, and delivering talks on various AI topics to inspire the next generation of AI scientists.
+
+- Real-World Applications: I'm driven by the opportunity to apply AI techniques to solve real-world problems and make a positive impact on society. Whether it's healthcare, finance, transportation, or any other domain, I'm always looking for opportunities to leverage AI for the greater good.
 
 ### Get in Touch
 I'm always open to collaboration, discussion, and sharing ideas. Whether you're interested in working together on a project, have questions about AI, or just want to connect, feel free to reach out to me via email or LinkedIn.
