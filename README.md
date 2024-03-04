@@ -1,8 +1,4 @@
 # Avinya - Innovation  
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div>I'm Sreevani, an AI researcher and a Full-Stack Automation developer 👩‍💻 coding since 2010 🚀</div>  
   
