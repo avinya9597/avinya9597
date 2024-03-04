@@ -10,10 +10,12 @@
 - 🔭 I’m pursuing my Master's in Data Science at the University of Colorado, Boulder.  
   
 
-- 🌱 I’m currently exploring and working on LLMs and recent development in AI models  
+- 🌱 I’m currently exploring and working on LLMs and recent developments in AI models  
   
 
-- ❓ Ask me about anything related to MERN stack and AI/Data Science related technologies  
+- ❓ Ask me about anything related to MERN stack and AI/Data Science related technologies
+
+- 💻 My Blog in progress: https://sites.google.com/colorado.edu/avinya-ai?usp=sharing
   
 
 <br/>  
