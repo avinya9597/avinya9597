@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">I'm Sreevani, an AI researcher and a Full-Stack Automation developer 👩‍💻 coding since 2010 🚀</div>  
+### <div>I'm Sreevani, an AI researcher and a Full-Stack Automation developer 👩‍💻 coding since 2010 🚀</div>  
   
 
 - 🔭 I’m pursuing my Master's in Data Science at the University of Colorado, Boulder.  
@@ -77,6 +77,8 @@
 ### Get in Touch
 I'm always open to collaboration, discussion, and sharing ideas. Whether you're interested in working together on a project, have questions about AI, or just want to connect, feel free to reach out to me via email or LinkedIn.
 
-Email: your.email@example.com
-LinkedIn: linkedin.com/in/yourprofile
+Email: sreevanipatil95@gmail.com
+<br/>
+LinkedIn: https://www.linkedin.com/in/sreevani-patil-67b77512a/ 
+
 Let's harness the power of AI to shape a better future together! 🚀✨
