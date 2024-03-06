@@ -11,7 +11,7 @@
 
 - ❓ Ask me about anything related to MERN stack and AI/Data Science related technologies
 
-- 💻 My Blog in progress: https://sites.google.com/colorado.edu/avinya-ai?usp=sharing
+- 💻 My Blog in progress: https://sites.google.com/colorado.edu/avinya-ai/home 
   
 
 <br/>  
