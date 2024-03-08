@@ -78,8 +78,8 @@
 ### Get in Touch
 I'm always open to collaboration, discussion, and sharing ideas. Whether you're interested in working together on a project, have questions about AI, or just want to connect, feel free to reach out to me via email or LinkedIn.
 
-_Email_: sreevanipatil95@gmail.com
+_Email: sreevanipatil95@gmail.com_
 <br/>
-_LinkedIn_: https://www.linkedin.com/in/sreevani-patil-67b77512a/ 
+_LinkedIn: https://www.linkedin.com/in/sreevani-patil-67b77512a/_
 
 Let's harness the power of AI to shape a better future together! 🚀✨
