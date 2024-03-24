@@ -1,6 +1,8 @@
 # Avinya (Innovation) by Sreevani Patil  
 
 ### <div>I'm Sreevani, an AI researcher and a Full-Stack Automation developer 👩‍💻 coding since 2010 🚀</div>  
+
+- My Portfolio: https://avinya9597.github.io/meetSreevani/ 
   
 
 - 🔭 I’m pursuing my Master's in Data Science at the University of Colorado, Boulder.  
