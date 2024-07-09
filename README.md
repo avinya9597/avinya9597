@@ -5,7 +5,7 @@
 - My Portfolio: https://avinya9597.github.io/meetSreevani/ 
   
 
-- 🔭 I’m pursuing my Master's in Data Science at the University of Colorado, Boulder.  
+- 🔭 Master's graduate in Data Science at the University of Colorado, Boulder.  
   
 
 - 🌱 I’m currently exploring and working on LLMs and recent developments in AI models  
