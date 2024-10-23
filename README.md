@@ -2,10 +2,6 @@
 
 ### <div>I'm Sreevani, an AI researcher and a Full-Stack Automation developer 👩‍💻 coding since 2010 🚀</div>  
 
-- My Resume: https://drive.google.com/file/d/1K36Z2c_utiqC74DZmWSj3Bw339EtAPt_/view?usp=drive_link
-
-- My Portfolio: https://avinya9597.github.io/meetSreevani/ 
-  
 
 - 🔭 Master's graduate in Data Science at the University of Colorado, Boulder.  
   
